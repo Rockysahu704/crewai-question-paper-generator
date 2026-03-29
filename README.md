@@ -105,6 +105,20 @@ python app.py
 
 ---
 
+## 📸 Output Screenshots
+
+### Sample 1
+![Output 1](output-screenshots/Screenshot_01.png)
+
+### Sample 2
+![Output 2](output-screenshots/Screenshot_02.png)
+
+### Sample 3
+![Output 3](output-screenshots/Screenshot_03.png)
+
+### Sample 4
+![Output 4](output-screenshots/Screenshot_04.png)
+
 ## 👨‍💻 Author
 
 Rocky Sahu
